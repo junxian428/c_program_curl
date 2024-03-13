@@ -1,0 +1,4 @@
+ sudo apt-get install libcurl4-gnutls-dev
+ 
+junxian428@LAPTOP-PVLCOKUM:~/CURLProject$ gcc ' http_example.c' -lcurl -o http_example
+junxian428@LAPTOP-PVLCOKUM:~/CURLProject$ ./http-example
